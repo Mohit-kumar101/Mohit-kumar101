@@ -1,34 +1,34 @@
-# 👋 Hey there, I'm Mohit Kumar! (@Mohit-kumar101)
+# 👋 Hey, I'm Mohit Kumar! (@Mohit-kumar101)
 
-Welcome to my GitHub! I'm a passionate **web developer** with a love for crafting dynamic, user-friendly applications and solving real-world problems through code. From building sleek websites to experimenting with algorithmic trading, I’m all about turning ideas into impactful projects.
+Welcome to my GitHub! I'm a **web developer** and **DevOps enthusiast** with a passion for building scalable, automated systems and coding elegant solutions. From crafting responsive web apps to automating trading bots, I’m all about merging creativity with technology. 🚀
 
-## 🚀 About Me
-- 🌐 **Web Dev Enthusiast**: Skilled in **HTML**, **CSS**, **JavaScript**, and **C++**, I create responsive, engaging web experiences with a focus on clean code.
-- 🐾 **Pet Lover & Content Creator**: I run *PetsWithMe* accounts across Instagram, TikTok, and Snapchat, blending my passion for animals with digital branding.
-- 📈 **Trading Bot Tinkerer**: I’ve developed trading bots, like an Expert Advisor for MetaTrader 5, to automate strategies for currency pairs like USDJPY.
-- 🌱 **Lifelong Learner**: Currently diving into **cloud computing** (AWS), **DevOps tools** (Docker, Kubernetes), and **Data Structures and Algorithms** to sharpen my skills.
-- 💡 **Goal**: To build innovative projects that combine creativity, technology, and problem-solving while contributing to open-source communities.
+## 💻 About Me
+- 🌐 **Web Dev Wizard**: I build dynamic, user-friendly apps using **HTML**, **CSS**, **JavaScript**, and solve complex problems with **C++**.  
+- 📈 **Trading Bot Creator**: Developed an MQL5 Expert Advisor for MetaTrader 5, automating USDJPY trades on the M5 timeframe.  
+- ⚙️ **DevOps Dreamer**: Diving deep into **AWS**, **Docker**, **Kubernetes**, and **CI/CD pipelines** to master cloud infrastructure and automation.  
+- 🌱 **Always Learning**: Currently sharpening my **Data Structures and Algorithms** in C++ and exploring Terraform for infrastructure-as-code.  
+- 💡 **Goal**: To become a CloudOps Engineer, deploying robust systems and contributing to cutting-edge open-source DevOps projects.
 
-## 🛠️ What I’m Working On
-- Enhancing my **web development** skills by exploring frameworks like React and Node.js for scalable applications.
-- Mastering **Data Structures and Algorithms** in C++ to tackle medium-level coding challenges with efficiency.
-- Experimenting with **cloud-based deployments** to integrate my projects with AWS for robust, scalable solutions.
+## 🛠️ What I’m Exploring
+- **Web Development**: Experimenting with React and Node.js to build scalable, modern web applications.  
+- **DevOps**: Setting up CI/CD pipelines with GitHub Actions and deploying apps on AWS for seamless automation.  
+- **DSA**: Solving medium-level coding challenges in C++ to ace technical interviews and optimize algorithms.
 
-## 📚 Featured Projects
-- **Pet Adoption Platform**: A full-stack web app built with HTML, CSS, JavaScript, and Node.js, connecting pet shelters with adopters. Features include a searchable pet database and user profiles. (*In progress, check my repos for updates!*)
-- **USDJPY Trading Bot**: An MQL5 Expert Advisor for MetaTrader 5 that automates trading based on candlestick patterns, optimized for the M5 timeframe.
-- **Interactive Pet-Themed Quiz**: A JavaScript-powered web quiz that matches users with their ideal pet based on lifestyle preferences, styled with vibrant CSS and integrated with my *PetsWithMe* branding.
-- **C++ Algorithm Visualizer**: A desktop application using C++ and SFML to visualize sorting algorithms (e.g., Bubble Sort, Quick Sort) with animated graphics for educational purposes.
+## 📚 Featured Repositories
+- **Market Data Dashboard**: A JavaScript web app visualizing real-time forex data with Chart.js, styled with CSS, and deployed via GitHub Actions.  
+- **USDJPY Trading Bot**: An MQL5 Expert Advisor automating trades based on candlestick patterns, optimized for MetaTrader 5.  
+- **Dockerized Web App**: A simple HTML/CSS/JS app containerized with Docker, showcasing automated deployment to AWS EC2.  
+- **C++ Sorting Visualizer**: A C++ program using SFML to animate sorting algorithms like Quick Sort, built for educational purposes.
 
-## 📫 Let’s Connect!
-- 📧 Email: [mohit.k3089@gmail.com](mailto:mohit.k3089@gmail.com)
-- 🐾 Follow my pet adventures: Search for *PetsWithMe* on Instagram, TikTok, and Snapchat!
-- 🌐 Portfolio: [Coming soon on GitHub Pages!]
+## 📫 Connect with Me
+- 📧 Email: [mohit.k3089@gmail.com](mailto:mohit.k3089@gmail.com)  
+- 🌐 Portfolio: [Coming soon on GitHub Pages!]  
+- 💻 LeetCode: [Link your profile here to showcase DSA skills]
 
 ## ⚡ Fun Fact
-When I’m not coding, I’m either brainstorming new *PetsWithMe* content for my furry friends or analyzing market trends for my next trading bot idea!
+When I’m not debugging code or tweaking pipelines, I’m analyzing market trends or brainstorming my next DevOps automation idea!
 
-Thanks for visiting—let’s collaborate on something pawsome! 🐶🚀
+Let’s build the future of tech together—drop me a message! 🔧🚀
 <!---
 Mohit-kumar101/Mohit-kumar101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
