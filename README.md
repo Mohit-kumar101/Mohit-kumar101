@@ -30,14 +30,14 @@ I am a software developer with a background in execution-critical environments. 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" alt="Spring Boot"/></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React"/></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js"/></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="Express"/></code>
+
 
 ### **Databases, Cloud & Analytics**
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker"/></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git"/></code>
-<code><img height="30" src="https://raw.githubusercontent.com/powerbi/powerbi-docs/main/powerbi-docs/media/power-bi-icon.png" alt="Power BI"/></code>
+
 
 ---
 
