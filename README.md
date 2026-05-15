@@ -72,14 +72,41 @@ I am a software developer with a background in execution-critical environments. 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Metrics & Activity
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="Mohit's GitHub Stats" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" height="180px" />
-</p>
+<div align="center">
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Mohit's GitHub Trophies" />
+</div>
 
----
+<br/>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <!-- Core Stats Card -->
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=61dafb&icon_color=61dafb&text_color=ffffff&bg_color=0f141c" alt="Mohit's GitHub Stats" width="100%" />
+    </td>
+    <!-- Streak & Activity Card -->
+    <td valign="top" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0f141c&ring=61dafb&fire=61dafb&currStreakNum=ffffff" alt="GitHub Streak" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <!-- Most Used Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=61dafb&bg_color=0f141c&text_color=ffffff&langs_count=6" alt="Top Languages" width="80%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Contribution Graph Wrapper -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyonight&bg_color=0f141c&hide_border=true&color=61dafb" alt="Mohit's Contribution Graph" width="100%" />
+</div>
 
 ## ✉️ Let's Connect!
 
