@@ -1,41 +1,89 @@
-👋 Hi, I’m Mohit Kumar!
+# 👋 Hi, I'm Mohit Kumar
 
-Welcome to my GitHub! I’m a passionate Software Developer and Data Analyst dedicated to building smart, scalable applications and delivering data-driven solutions. I thrive at the intersection of coding, AI, and analytics — turning complex problems into elegant, efficient software.
+### **Software Engineer & Data Analyst**  
+Building resilient backend systems, intelligent full-stack applications, and data-driven infrastructure.
 
-💼 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-k-12b941275)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohit.k3089@gmail.com)
 
-🌐 Full-Stack Developer: Skilled in Java, Python, JavaScript, and frameworks like React and Spring Boot.
+---
 
-📊 Data Analytics Enthusiast: Experienced in SQL, Python (Pandas, NumPy), and Power BI to uncover actionable insights.
+## 🚀 About Me
 
-🤖 AI Explorer: Building AI-powered projects using GPT-4 API, TensorFlow, and automation with AI tools.
+I am a software developer with a background in execution-critical environments. I thrive on building "un-sexy" but highly vital software—things like multi-tenant infrastructure, localized geospatial services, and logistics automation. I balance robust backend design with deep data analytics to turn architectural complexity into scalable, elegant software solutions.
 
-🚀 Team Lead & Collaborator: Leading teams with Microsoft Excel and Word for daily task coordination and project delivery.
+*   🎓 **Education:** Associate Degree in Computer Science (Langara College) | B.Tech in Electrical Engineering (WES Validated)
+*   ⚓ **Core Philosophy:** Build for reliability, design for scale, and automate everything else.
 
-🎓 Currently pursuing an Associate Degree in Computer Science at Langara College, with a Bachelor of Technology in Electrical Engineering (WES equivalent).
+---
 
-🛠 What I’m Building & Exploring
+## 🛠️ Technical Toolkit
 
-Smart Web Apps: Creating intuitive user experiences with modern web technologies (React, Node.js, PHP).
+### **Languages & Core Ecosystem**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
-AI-Powered Tools: Developing intelligent assistants and data-driven automation solutions.
+### **Frameworks & Backend Architecture**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
 
-Data Dashboards: Designing interactive dashboards and reports with Power BI and Python visualization libraries.
+### **Data Engineering & Infra**
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 
-Cloud & DevOps: Experimenting with Azure and Docker basics to streamline deployment workflows.
+---
 
-📂 Featured Projects
+## 📂 Featured Projects
 
-EduGenie – A study assistant web app with HTML, CSS, JavaScript, PHP, and SQL for student task management and learning optimization.
+### 🛠️ Core Engineering & Infrastructure
 
-Digital Time Capsule – React & Node.js app that securely stores user memories and unlocks them on a scheduled date.
+#### **SynapseConfig Sentinel**
+> A dynamic Feature Flag and multi-tenant management system engineered for enterprise applications.
+*   **Tech Stack:** Java, Spring Boot, MongoDB
+*   **Key Features:** Implements clean Controller-Service-Repository patterns, robust global exception handling, and optimized document database queries to isolate tenant configurations reliably.
 
-AI Career Navigator – An AI-driven career planning assistant that analyzes resumes and recommends personalized growth paths using GPT-4 API and Python.
+#### **Geospatial Neighborhood Booking Service**
+> A smart scheduling and localized logistics engine built to match service providers with hyper-local demand.
+*   **Tech Stack:** Spring Boot, MongoDB, OpenStreetMap API
+*   **Key Features:** Utilizes the **Haversine Formula** for accurate, real-time geospatial distance calculations and route clustering.
 
-Inventory Tracker – A Java Spring Boot & MySQL full-stack project for real-time inventory management with RESTful APIs.
+---
 
-📫 Connect with Me
+### 🤖 AI & Full-Stack Solutions
 
-✉️ Email: mohit.k3089@gmail.com
+#### **AI Career Navigator**
+> An AI-driven career planning assistant that turns raw resume profiles into structured, actionable growth paths.
+*   **Tech Stack:** Python, GPT-4 API, Pandas
+*   **Key Features:** Parses complex career data, extracts key technical competencies, and maps personalized skill-acquisition pipelines.
 
-🔗 LinkedIn: www.linkedin.com/in/mohit-k-12b941275
+#### **Digital Time Capsule**
+> A secure full-stack web application designed to store user memories safely and unlock them precisely on a future scheduled date.
+*   **Tech Stack:** React, Node.js, Express, MongoDB
+
+#### **Inventory Tracker & Auditor**
+> A real-time inventory management tool built to mimic industrial distribution workflows.
+*   **Tech Stack:** Java, Spring Boot, MySQL, RESTful APIs
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="Mohit's GitHub Stats" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" height="180px" />
+</p>
+
+---
+
+## ✉️ Let's Connect!
+
+Whether you want to discuss system architecture, backend engineering, data science, or the FIRE movement—feel free to reach out!
+
+*   📥 **Email:** [mohit.k3089@gmail.com](mailto:mohit.k3089@gmail.com)
+*   💼 **LinkedIn:** [linkedin.com/in/mohit-k-12b941275](https://www.linkedin.com/in/mohit-k-12b941275)
