@@ -99,15 +99,6 @@ I am a software developer with a background in execution-critical environments. 
 
 ---
 
-## 📊 GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="Mohit's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ## ✉️ Let's Connect!
 
 Whether you want to discuss system architecture, backend engineering, data science, or the FIRE movement—feel free to reach out!
